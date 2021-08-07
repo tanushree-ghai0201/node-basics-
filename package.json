@@ -1,0 +1,20 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "\"# node-basics-\" \r \"# node-basics-\"",
+  "main": "Log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanushree-ghai0201/node-basics-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanushree-ghai0201/node-basics-/issues"
+  },
+  "homepage": "https://github.com/tanushree-ghai0201/node-basics-#readme"
+}
