@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tanushree-ghai0201/node-basics-/issues"
   },
-  "homepage": "https://github.com/tanushree-ghai0201/node-basics-#readme"
+  "homepage": "https://github.com/tanushree-ghai0201/node-basics-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
